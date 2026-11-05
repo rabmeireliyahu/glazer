@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>פרשת פנחס</title>
+      <description>פרשת פנחס</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-glazer/%D7%A4%D7%A8%D7%A9%D7%AA%20%D7%A4%D7%A0%D7%97%D7%A1.mp3" length="92400933" type="audio/mpeg"/>
+      <guid isPermaLink="false">פרשת פנחס.mp3</guid>
+      <pubDate>Sat, 12 Jul 2025 13:45:06 -0000</pubDate>
+      <itunes:duration>02:29:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>פרשת מטות</title>
       <description>פרשת מטות</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-glazer/%D7%A4%D7%A8%D7%A9%D7%AA%20%D7%9E%D7%98%D7%95%D7%AA.mp3" length="109133109" type="audio/mpeg"/>
