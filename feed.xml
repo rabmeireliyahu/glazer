@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>פרשת וישב</title>
+      <description>פרשת וישב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-glazer/%D7%A4%D7%A8%D7%A9%D7%AA%20%D7%95%D7%99%D7%A9%D7%91.mp3" length="70445015" type="audio/mpeg"/>
+      <guid isPermaLink="false">פרשת וישב.mp3</guid>
+      <pubDate>Wed, 10 Dec 2025 11:27:11 -0000</pubDate>
+      <itunes:duration>02:00:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>24 דקות של שמחה</title>
       <description>24 דקות של שמחה</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-glazer/24%20%D7%93%D7%A7%D7%95%D7%AA%20%D7%A9%D7%9C%20%D7%A9%D7%9E%D7%97%D7%94.mp3" length="18177381" type="audio/mpeg"/>
