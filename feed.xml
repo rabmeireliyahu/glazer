@@ -2638,5 +2638,14 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>פרשת חיי שרה  תשפ＂ז שידור חי</title>
+      <description>פרשת חיי שרה  תשפ＂ז שידור חי</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-glazer/%D7%A4%D7%A8%D7%A9%D7%AA%20%D7%97%D7%99%D7%99%20%D7%A9%D7%A8%D7%94%20%20%D7%AA%D7%A9%D7%A4%EF%BC%82%D7%96%20%D7%A9%D7%99%D7%93%D7%95%D7%A8%20%D7%97%D7%99.mp3" length="65373621" type="audio/mpeg"/>
+      <guid isPermaLink="false">פרשת חיי שרה  תשפ＂ז שידור חי.mp3</guid>
+      <pubDate>Sat, 07 Nov 2026 12:01:03 -0000</pubDate>
+      <itunes:duration>01:47:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
