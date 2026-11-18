@@ -2935,5 +2935,14 @@
       <itunes:duration>02:29:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>מה בין שווארמה לשלום בית קורע מצחוק</title>
+      <description>מה בין שווארמה לשלום בית קורע מצחוק</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-glazer/%D7%9E%D7%94%20%D7%91%D7%99%D7%9F%20%D7%A9%D7%95%D7%95%D7%90%D7%A8%D7%9E%D7%94%20%D7%9C%D7%A9%D7%9C%D7%95%D7%9D%20%D7%91%D7%99%D7%AA%20%D7%A7%D7%95%D7%A8%D7%A2%20%D7%9E%D7%A6%D7%97%D7%95%D7%A7.mp3" length="39948813" type="audio/mpeg"/>
+      <guid isPermaLink="false">מה בין שווארמה לשלום בית קורע מצחוק.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 13:16:39 -0000</pubDate>
+      <itunes:duration>01:07:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
